@@ -8,11 +8,11 @@ Original developers of this app and the realization of our ideas include (me) an
 - Magahis, Carlos Andrei F.
 - Ugale, Rionne Angelo
 
-Original Mobile App Entry can be found here(https://github.com/Blue-Hacks-2021/Orion-sentinels) 
+Original Mobile App Entry can be found [here] (https://github.com/Blue-Hacks-2021/Orion-sentinels) 
 
 ## What's New
 * The original mobile app entry was written in Kotlin. In this project, I will try to recreate the app using Flutter, a Dart-based framework used to create native mobile applications as well.
 * The original ideas that were supposed to be inserted in the original app will be attempted to be realized.
 
 ## Installation of Flutter
-Installed via this link(https://flutter.dev/docs/get-started/install/windows) 
+Installed via this [link] (https://flutter.dev/docs/get-started/install/windows) 
