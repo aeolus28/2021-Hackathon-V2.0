@@ -2,11 +2,11 @@
 This will be my own version of our mobile app entry in the official Blue Hacks 2021, organized by Compsat. 
 
 ## Orion Sentinels
-Original developers of this app and the realization of our ideas include (me) and the following:
+Original developers of this app and the realization of our ideas include the following:
 - Carcellar, Mon Timothy Isaac M.
 - Espiritu, Joseph Benedict 
 - Magahis, Carlos Andrei F.
-- Ugale, Rionne Angelo
+- Ugale, Rionne Angelo (me)
 
 Original Mobile App Entry can be found [here](https://github.com/Blue-Hacks-2021/Orion-sentinels) 
 
